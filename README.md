@@ -1,0 +1,2 @@
+# teorija
+Objektinio programavimo teorija
